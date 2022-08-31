@@ -1,3 +1,4 @@
+Python Versão 2.9.13
 # CadastroCRUD
  Cadastro-CRUD com Python e Django
 
@@ -28,5 +29,5 @@ python manage.py migrate
 ~~~
 ## E rode o sistema com o comando: 
 ~~~
-python manage.py runserver
+python manage.py runserver 
 ~~~~
