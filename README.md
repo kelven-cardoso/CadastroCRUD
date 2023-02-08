@@ -29,5 +29,5 @@ python manage.py migrate
 ~~~
 ## E rode o sistema com o comando: 
 ~~~
-python manage.py runserver 
+python manage.py runserver  
 ~~~~
